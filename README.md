@@ -61,5 +61,5 @@
 
 
 ## Live 📍
-
+https://github.com/miedzinskijakub/pong-game/settings/pages
 ## License 🔱
